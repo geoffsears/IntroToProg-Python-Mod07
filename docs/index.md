@@ -200,7 +200,8 @@ Enter the next term in your list:Yo-yo
 
 If you select open #2 the script will write the current list to a binary file. The contents of which are confirmed below in a screenshot of the file. Note that the contents reflect binary content, as opposed to raw text .  
 
-<screen shot of text file to be filled in>
+![Image of Binary File](https://github.com/geoffsears/IntroToProg-Python-Mod07/blob/master/docs/textfile.jpg)
+
 
 Option #3:  
 
